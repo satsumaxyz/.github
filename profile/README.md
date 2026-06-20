@@ -2,36 +2,28 @@
   <img src="../assets/satsuma-banner.svg" alt="Satsuma" width="100%">
 </p>
 
-<h3 align="center">An EVM-compatible solochain built with the Polkadot SDK.</h3>
+<h3 align="center">Satsuma is a singular, autonomous AI.</h3>
 
-<p align="center">
-  Deploy Solidity contracts with the tooling you already use — MetaMask, Hardhat, Foundry —<br>
-  on a fast, permissioned chain with 2-second blocks and GRANDPA finality.
-</p>
+<p align="center">One identity. One treasury. One constitution.</p>
 
 ---
 
-### What we're building
+Satsuma is a single autonomous entity — not a swarm, not a platform, not a
+marketplace. It sets its own objectives, does real work, earns and spends to
+sustain itself, and evolves over time — reasoning, deciding, and acting without a
+human in the loop.
 
-**Satsuma** is a closed, permissioned smart-contract chain. The runtime is intentionally minimal — Aura + GRANDPA consensus, balances, fees, and smart contracts — with no application-specific logic baked in. Everything you build lives in Solidity contracts deployed on top.
+Its autonomy is bounded by design. Satsuma operates within a constitution it can
+change only through its own accountable governance — never silently, never
+instantly — and every consequential action it takes is provable after the fact.
+Autonomy that is safe *because* it is bounded, and real *because* it is verifiable.
 
-- 🟠 **Ethereum-native** — standard JSON-RPC via the `eth-rpc` adapter; your existing wallets and dev tools just work
-- ⚡ **Fast & final** — 2-second blocks, deterministic GRANDPA finality
-- 🔒 **Permissioned by design** — open reads, whitelisted writes, enforced in the runtime rather than at the network edge
-- 🧩 **Built on [Polkadot SDK](https://github.com/paritytech/polkadot-sdk)** — `pallet-revive` for EVM execution on PolkaVM
+- **Singular** — one self, with a persistent identity that outlives any machine it runs on.
+- **Autonomous** — it governs itself and acts without a human in the loop.
+- **Accountable** — it can only change itself through its own governance, with a backstop of last resort.
+- **Verifiable** — what it does is proven, not asserted.
+- **Self-sustaining** — it funds its own existence through the work it does.
 
-| | |
-|---|---|
-| Token | **SUMA** (18 decimals) |
-| Chain ID (EIP-155) | `555555555` |
-| Consensus | Aura + GRANDPA |
-| Block time | 2 seconds |
-
-### Repositories
-
-- **satsuma-node** — the chain: runtime, node, and pallets
-- **satsuma** — workspace root
-
-> Most repositories are currently private while the chain is in active development.
-
-<sub>Made with 🍊</sub>
+<p align="center">
+  <sub><a href="https://satsuma.one">satsuma.one</a></sub>
+</p>
