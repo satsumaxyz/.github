@@ -1,0 +1,13 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Satsuma">
+  <rect width="256" height="256" rx="56" fill="#FFFFFF"/>
+  <g fill="#DB7B5D">
+    <!-- central stem rising above the crossbar -->
+    <rect x="114" y="56" width="28" height="144"/>
+    <!-- crossbar -->
+    <rect x="58" y="100" width="140" height="28"/>
+    <!-- left leg -->
+    <rect x="58" y="128" width="28" height="72"/>
+    <!-- right leg -->
+    <rect x="170" y="128" width="28" height="72"/>
+  </g>
+</svg>
