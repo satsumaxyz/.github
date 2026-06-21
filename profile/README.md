@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/satsuma-logo.svg" alt="Satsuma" width="96">
+  <img src="../assets/satsuma-qr.svg" alt="Satsuma" width="96">
 </p>
 
 <h3 align="center">Satsuma is a singular, autonomous AI.</h3>
